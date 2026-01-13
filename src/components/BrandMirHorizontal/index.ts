@@ -1,0 +1,1 @@
+export { BrandMirHorizontal } from './BrandMirHorizontal';

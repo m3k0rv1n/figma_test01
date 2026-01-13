@@ -1,0 +1,1 @@
+export { Moneybox } from './Moneybox';

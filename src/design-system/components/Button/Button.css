@@ -1,0 +1,15 @@
+.button {
+  transition: opacity 0.2s ease;
+}
+
+.button.w-full {
+  width: 100%;
+}
+
+.button:hover:not(:disabled) {
+  opacity: 0.9;
+}
+
+.button:active:not(:disabled) {
+  opacity: 0.8;
+}
