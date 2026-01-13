@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { colors, typography, spacing } from '../../design-system/tokens';
 
-const img10 = 'http://localhost:3845/assets/3731f8ed77830b01225a90a32961ea557128e9e1.svg';
+const img10 = '/figma_test01/assets/3731f8ed77830b01225a90a32961ea557128e9e1.svg';
 
 export interface FAQProps {
   className?: string;

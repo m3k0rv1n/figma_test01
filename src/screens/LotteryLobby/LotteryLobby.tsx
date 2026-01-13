@@ -5,7 +5,7 @@ import { Catalog } from '../../components/Catalog';
 import { FAQ } from '../../components/FAQ';
 import { Footer } from '../../components/Footer';
 
-const imgRectangle240655930 = 'http://localhost:3845/assets/6c12e517e7bf6061ee8d42318053a46fd5f280bd.png';
+const imgRectangle240655930 = '/figma_test01/assets/6c12e517e7bf6061ee8d42318053a46fd5f280bd.png';
 
 export const LotteryLobby: React.FC = () => {
   const backgroundGradient = `url('data:image/svg+xml;utf8,<svg viewBox=\'0 0 360 2537\' xmlns=\'http://www.w3.org/2000/svg\' preserveAspectRatio=\'none\'><rect x=\'0\' y=\'0\' height=\'100%\' width=\'100%\' fill=\'url(%23grad)\' opacity=\'1\'/><defs><radialGradient id=\'grad\' gradientUnits=\'userSpaceOnUse\' cx=\'0\' cy=\'0\' r=\'10\' gradientTransform=\'matrix(1.1125e-13 -103.26 23.031 7.8417e-8 180 551.45)\'><stop stop-color=\'rgba(88,50,156,1)\' offset=\'0.19386\'/><stop stop-color=\'rgba(88,50,156,0.2)\' offset=\'1\'/></radialGradient></defs></svg>'), linear-gradient(90deg, rgb(18, 17, 26) 0%, rgb(18, 17, 26) 100%)`;

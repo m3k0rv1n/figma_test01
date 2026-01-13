@@ -1,8 +1,8 @@
 import React from 'react';
 import { colors, typography, spacing } from '../../design-system/tokens';
 
-const imgItog200062 = 'http://localhost:3845/assets/457527de927d61dce3d6e8e47206835571267776.png';
-const img6 = 'http://localhost:3845/assets/0ec1eb0a3ca3fa22b33b425ab221bbe14ee9d9b4.svg';
+const imgItog200062 = '/figma_test01/assets/457527de927d61dce3d6e8e47206835571267776.png';
+const img6 = '/figma_test01/assets/0ec1eb0a3ca3fa22b33b425ab221bbe14ee9d9b4.svg';
 
 export interface MoneyboxProps {
   className?: string;

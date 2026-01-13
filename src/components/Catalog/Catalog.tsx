@@ -5,17 +5,17 @@ import { CardLotteryButton } from '../CardLotteryButton';
 import { Button } from '../../design-system/components/Button';
 import './Catalog.css';
 
-// Game images
-const img = 'http://localhost:3845/assets/078d253836c401e4d36788a37fa5cfdd2d6ea5d2.png';
-const img2 = 'http://localhost:3845/assets/142226be8abcbd39dc6f908e2f7eacf4b99bc176.png';
-const img3 = 'http://localhost:3845/assets/2c80c8cafaca1443e5658bf74c5fcf94e21dfeab.png';
-const img4 = 'http://localhost:3845/assets/7821d3471b43a56086d4d956b99626382ae146b9.png';
-const img5 = 'http://localhost:3845/assets/123b39c9e72e309d858c0f52bb11ce0cd682a8c2.png';
-const imgTxt = 'http://localhost:3845/assets/698ef10fc50fcccf014d90d2b45c11ccb96b265b.png';
-const imgTxt1 = 'http://localhost:3845/assets/649a50221904265d8b54a4ff4d6517a5e43734b9.png';
-const imgTxt2 = 'http://localhost:3845/assets/8f427de104a5a751863eab6029fc20e0ff581b72.png';
+// Game images - using placeholder paths (images need to be downloaded from Figma and placed in public/assets/)
+const img = '/figma_test01/assets/078d253836c401e4d36788a37fa5cfdd2d6ea5d2.png';
+const img2 = '/figma_test01/assets/142226be8abcbd39dc6f908e2f7eacf4b99bc176.png';
+const img3 = '/figma_test01/assets/2c80c8cafaca1443e5658bf74c5fcf94e21dfeab.png';
+const img4 = '/figma_test01/assets/7821d3471b43a56086d4d956b99626382ae146b9.png';
+const img5 = '/figma_test01/assets/123b39c9e72e309d858c0f52bb11ce0cd682a8c2.png';
+const imgTxt = '/figma_test01/assets/698ef10fc50fcccf014d90d2b45c11ccb96b265b.png';
+const imgTxt1 = '/figma_test01/assets/649a50221904265d8b54a4ff4d6517a5e43734b9.png';
+const imgTxt2 = '/figma_test01/assets/8f427de104a5a751863eab6029fc20e0ff581b72.png';
 
-const img1 = 'http://localhost:3845/assets/3558c6d60a6e38a1f701debc74c17286fda652d9.svg';
+const img1 = '/figma_test01/assets/3558c6d60a6e38a1f701debc74c17286fda652d9.svg';
 
 export interface CatalogProps {
   className?: string;

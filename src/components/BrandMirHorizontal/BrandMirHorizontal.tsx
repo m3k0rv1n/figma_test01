@@ -1,6 +1,6 @@
 import React from 'react';
 
-const imgVector = 'http://localhost:3845/assets/924762bdb06551ffbabc4966e9ed300b7318331b.svg';
+const imgVector = '/figma_test01/assets/924762bdb06551ffbabc4966e9ed300b7318331b.svg';
 
 export interface BrandMirHorizontalProps {
   className?: string;

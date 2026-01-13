@@ -3,18 +3,18 @@ import { colors, spacing, borderRadius } from '../../design-system/tokens';
 import { Moneybox } from '../Moneybox';
 
 // Status bar icons
-const img20000 = 'http://localhost:3845/assets/506f9635525548d8a65879e8e75738a20dafee60.svg';
-const img20001 = 'http://localhost:3845/assets/997201ff2758ae64cc083e70683cd64f6ce7d2fd.svg';
-const img20002 = 'http://localhost:3845/assets/5a6123a137922589e14382b7850279a0783a1973.svg';
-const img20003 = 'http://localhost:3845/assets/0b3b3d17a790fc0fd6d45e5a147dff0b8fa597ff.svg';
-const img20004 = 'http://localhost:3845/assets/47a26b4e276681a91a715757d38f8d6640353aa0.svg';
+const img20000 = '/figma_test01/assets/506f9635525548d8a65879e8e75738a20dafee60.svg';
+const img20001 = '/figma_test01/assets/997201ff2758ae64cc083e70683cd64f6ce7d2fd.svg';
+const img20002 = '/figma_test01/assets/5a6123a137922589e14382b7850279a0783a1973.svg';
+const img20003 = '/figma_test01/assets/0b3b3d17a790fc0fd6d45e5a147dff0b8fa597ff.svg';
+const img20004 = '/figma_test01/assets/47a26b4e276681a91a715757d38f8d6640353aa0.svg';
 
 // Navigation icons
-const img7 = 'http://localhost:3845/assets/0ec1eb0a3ca3fa22b33b425ab221bbe14ee9d9b4.svg';
-const img8 = 'http://localhost:3845/assets/715c9f298e290b576cbb68eed858d6795f96a505.svg';
-const img9 = 'http://localhost:3845/assets/870278d04dfb2779a70c1848747709b88e960a0d.svg';
+const img7 = '/figma_test01/assets/0ec1eb0a3ca3fa22b33b425ab221bbe14ee9d9b4.svg';
+const img8 = '/figma_test01/assets/715c9f298e290b576cbb68eed858d6795f96a505.svg';
+const img9 = '/figma_test01/assets/870278d04dfb2779a70c1848747709b88e960a0d.svg';
 
-const imgItog200073 = 'http://localhost:3845/assets/a33b29a79fa5517fa372fdf63f5f51fbafd760f5.png';
+const imgItog200073 = '/figma_test01/assets/a33b29a79fa5517fa372fdf63f5f51fbafd760f5.png';
 
 export interface HeaderProps {
   className?: string;

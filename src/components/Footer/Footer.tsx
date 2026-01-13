@@ -5,18 +5,18 @@ import { BrandMirHorizontal } from '../BrandMirHorizontal';
 import './Footer.css';
 
 // Footer images
-const img11 = 'http://localhost:3845/assets/536037631b2970f0e577da2c3a3a014d897615e3.svg';
-const img12 = 'http://localhost:3845/assets/e956a7b2319bf6afde1d664ffd36b4398ad13662.svg';
-const img13 = 'http://localhost:3845/assets/9a1423d4b7021f93df81abd0c789381421301771.svg';
-const img14 = 'http://localhost:3845/assets/44075d8424e2e81abe2d2771abc123b2436e0d6b.svg';
-const img15 = 'http://localhost:3845/assets/7c2c564c217e2ad6b9d9648be89441a5874e7832.svg';
-const img16 = 'http://localhost:3845/assets/44725252b20f616ed32fe1247f40ef36170d6b0c.svg';
-const img17 = 'http://localhost:3845/assets/300d121a9bc9d0b5f5b1819abb3245f45e42225a.svg';
-const img18 = 'http://localhost:3845/assets/da5a788aa295f0c9ac21cbcb04bdd0561964bddb.svg';
-const img19 = 'http://localhost:3845/assets/7904a68e1f5c8b9f0be6bf15283a1dcb9ca199e7.svg';
-const img20 = 'http://localhost:3845/assets/e230017ee469204231908589189739e871a2af9e.svg';
-const img21 = 'http://localhost:3845/assets/905ed310e1f0599cf89d9513f819723edbb613e.svg';
-const img22 = 'http://localhost:3845/assets/483a28fbbeaaef742964b8f7dcf98b11a449c269.svg';
+const img11 = '/figma_test01/assets/536037631b2970f0e577da2c3a3a014d897615e3.svg';
+const img12 = '/figma_test01/assets/e956a7b2319bf6afde1d664ffd36b4398ad13662.svg';
+const img13 = '/figma_test01/assets/9a1423d4b7021f93df81abd0c789381421301771.svg';
+const img14 = '/figma_test01/assets/44075d8424e2e81abe2d2771abc123b2436e0d6b.svg';
+const img15 = '/figma_test01/assets/7c2c564c217e2ad6b9d9648be89441a5874e7832.svg';
+const img16 = '/figma_test01/assets/44725252b20f616ed32fe1247f40ef36170d6b0c.svg';
+const img17 = '/figma_test01/assets/300d121a9bc9d0b5f5b1819abb3245f45e42225a.svg';
+const img18 = '/figma_test01/assets/da5a788aa295f0c9ac21cbcb04bdd0561964bddb.svg';
+const img19 = '/figma_test01/assets/7904a68e1f5c8b9f0be6bf15283a1dcb9ca199e7.svg';
+const img20 = '/figma_test01/assets/e230017ee469204231908589189739e871a2af9e.svg';
+const img21 = '/figma_test01/assets/905ed310e1f0599cf89d9513f819723edbb613e.svg';
+const img22 = '/figma_test01/assets/483a28fbbeaaef742964b8f7dcf98b11a449c269.svg';
 
 export interface FooterProps {
   className?: string;

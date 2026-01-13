@@ -1,8 +1,8 @@
 import React from 'react';
 import { colors, typography, spacing, borderRadius, shadows } from '../../design-system/tokens';
 
-const imgLine1 = 'http://localhost:3845/assets/5ed5e905b13cb5812ee339b559bf2f1b7fcaca47.svg';
-const imgLine2 = 'http://localhost:3845/assets/1ce1c8f43b5b8f50c486a642162074283bce8807.svg';
+const imgLine1 = '/figma_test01/assets/5ed5e905b13cb5812ee339b559bf2f1b7fcaca47.svg';
+const imgLine2 = '/figma_test01/assets/1ce1c8f43b5b8f50c486a642162074283bce8807.svg';
 
 export interface CardLotteryButtonProps {
   className?: string;
